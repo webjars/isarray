@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>isarray</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>isarray</name>
     <description>WebJar for isarray</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/isarray</url>
         <connection>scm:git:https://github.com/webjars/isarray.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/isarray.git</developerConnection>
-        <tag>isarray-0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
